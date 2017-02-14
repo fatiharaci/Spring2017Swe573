@@ -2,10 +2,10 @@
 
 
 
-## Wiki
+### Wiki
 [Course Notes](https://github.com/fatiharaci/Spring2017Swe573/wiki/Course-Notes)
 
 
 
-## Homeworks
+### Homeworks
 [Homework 1](https://github.com/fatiharaci/Spring2017Swe573/wiki/Homework-1)
