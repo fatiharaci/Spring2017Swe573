@@ -26,10 +26,6 @@ def api_view(request):
         return HttpResponse(json.dumps(mydata), content_type="application/json")
 
 
-
-
-
-
 '''
 @csrf_protect
 def food_search(request):

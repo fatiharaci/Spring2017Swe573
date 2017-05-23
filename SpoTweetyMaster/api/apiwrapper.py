@@ -1,3 +1,4 @@
+# encoding=utf8
 from twython import Twython, TwythonError
 from collections import defaultdict
 import re
@@ -26,7 +27,7 @@ class TCOL(object):
         twitter = Twython(APP_KEY, access_token=ACCESS_TOKEN)
 
         # Create Program Objects---------------------------------------------------------#
-        MAX_ATTEMPTS = 10000
+        MAX_ATTEMPTS = 5000
         COUNT_OF_TWEETS_TO_BE_FETCHED = 10000
         top_songs_count = 10
 
@@ -110,7 +111,7 @@ class TCOL(object):
             text = aa['text']
             text2 = re.findall(r'(?<=#NowPlaying )([^"]*)(?= ♫)', text)
             if text2 == []:
-                text3 = []
+                text7 = []
             else:
                 text3 = text2[0]
                 text4 = text3.replace(" by ", " - ")

@@ -188,6 +188,8 @@
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwbTz3STP9D_uGM6FYprbs111dSkN52sY&libraries=places"></script>
         <script src="./js/jquery-3.1.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.10.0/bootstrap-table.min.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="js/jquery.ajax-cross-origin.min.js"></script>
 
         <script type="text/javascript">
         function initialize() {
@@ -254,6 +256,9 @@ function show_list(result_loc) {
     type : 'GET',
     dataType:'json',
     success : function(data) {
+        //var first = data[0];
+        //console.log(JSON.stringify(data));
+        //document.getElementById("1th_song").innerHTML = data[0].text;
         console.log(data[0]);
         $("#0th_song").text(data[0].text)
         $("#0th_link").attr("href", data[0].url)
