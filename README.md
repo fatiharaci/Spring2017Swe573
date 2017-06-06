@@ -20,7 +20,9 @@ https://github.com/fatiharaci/Spring2017Swe573/projects/2
 
 ## Diagrams
 [Mockup](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/mockup.png?raw=true)
+
 [Sequence Diagram](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/SeqDiag.png?raw=true)
+
 [Activity Diagram](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/ActDiag.png?raw=true)
 
 
