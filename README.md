@@ -7,7 +7,6 @@ An Online Twitter Analyzer for the Popular Songs Shared via Spotify
 SpoTweety uses Twitter API as a data source. It collects tweets from Twitter which is shared via any Spotify App. After analyzing the data it shows the most popular songs of that area depending on the share rate.
 
 
-![](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/loading.png?raw=true)
 ![](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/samplepage.png?raw=true)
 
 ## Project Documentation
