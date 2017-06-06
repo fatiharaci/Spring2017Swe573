@@ -26,4 +26,4 @@ https://github.com/fatiharaci/Spring2017Swe573/projects/2
 [Activity Diagram](https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Pics/ActDiag.png?raw=true)
 
 ## Tools
-https://github.com/fatiharaci/Spring2017Swe573/wiki/Tools
+Tools used in the project can be found here: https://github.com/fatiharaci/Spring2017Swe573/wiki/Tools
