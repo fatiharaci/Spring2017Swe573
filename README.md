@@ -10,3 +10,15 @@ SpoTweety uses Twitter API as a data source. It collects tweets from Twitter whi
 ## Project Documentation
 https://github.com/fatiharaci/Spring2017Swe573/blob/master/Documents/Requirements_Documentv2.pdf
 
+## Requirements
+More information can be found on wiki:
+https://github.com/fatiharaci/Spring2017Swe573/wiki/Requirements
+
+## Time management
+Please check GitHub Projects Page:
+https://github.com/fatiharaci/Spring2017Swe573/projects/2
+
+##Mockups
+
+
+
