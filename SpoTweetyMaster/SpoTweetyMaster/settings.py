@@ -25,9 +25,9 @@ APP_KEY = 'xs7C6V3V85dQdgRGjnSpyGDmT'
 APP_SECRET = '3XEvw8qPwyZahv3as8I6KErAFfxnL4nxJVNdW4Bf3n44tgKHUE'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

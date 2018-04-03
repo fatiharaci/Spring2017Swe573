@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>SpoTwitter</title>
+    <title>SpoTweety</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -247,7 +247,7 @@ function showBar() {
 
 
 function show_list(result_loc) {
-    var base = "http://127.0.0.1:8000/api/?q=";
+    var base = "http://spotweety.club/api?q=";
     $.ajax({
     //url : 'http://127.0.0.1:8000/api/?q=41.015137,28.979530,1000km',
     url:  base + result_loc +",1000km",
